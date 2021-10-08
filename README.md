@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to the JitterBug iOS Setup Page
+Jitterbug is a app that is based on libimobiledevice that is able activate a debugger to an app which allows jit. 
+# How does it work?
+It works in 2 different ways.
 
-You can use the [editor on GitHub](https://github.com/Spidy123222/Jitterbug-tutorial/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+1. Via vpn (Requires a Paid Developer account or a TestFlight Version) which is used for using it on the device its running. This version is JitterBug
+2. With a Second Device. This requires a seperate device that has JitterBug to activate a app on the main device (Anyone can Sign). This version is JitterBug lite
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Requirements
 
-### Markdown
+- DeveloperDiskImage (can be obtained here and has to be exact iOS or iPadOS number or closest one to it. Not all iOS versions updates it every time.)
+- PairingFile (The tutorial will tell you how to obtain it)
+- Altstore or Cydia Impactor or Testflight
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Spidy123222/Jitterbug-tutorial/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
