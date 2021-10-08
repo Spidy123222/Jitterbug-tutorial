@@ -17,7 +17,9 @@ When you use jitterbug you use a Pairing File and DeveloperDiskImage to activate
 ## Obtaining Required Files
 
 **DeveloperDiskImage:**
-This has to be exact iOS or iPadOS number or closest one to it. Not all iOS versions updates it every time. Not having the right DeveloperDiskImage can make this not work because it would fail to mount. Keep in mind that You can only mount the DeveloperDiskImage if it doesnt already have one. If you dont know if it is already mounted yuo can go into the Settings app and scroll down and if you see a icon with a hammer and says Developer. If you see a icon and button in there then it is already mounted and dont need to be mounted again. **The DeveloperDiskImage can unmount from restarting device or full shutdown and has to be done again. If its the same ios version just remount the one you used from before.**
+This has to be exact iOS or iPadOS number or closest one to it. Not all iOS versions updates it every time. Not having the right DeveloperDiskImage can make this not work because it would fail to mount. Keep in mind that You can only mount the DeveloperDiskImage 
+
+if it doesnt already have one. If you dont know if it is already mounted yuo can go into the Settings app and scroll down and if you see a icon with a hammer and says Developer. If you see a icon and button in there then it is already mounted and dont need to be mounted again. **The DeveloperDiskImage can unmount from restarting device or full shutdown and has to be done again. If its the same ios version just remount the one you used from before.**
 
 Download1: [https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images/releases/](https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images/releases/)
 
